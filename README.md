@@ -14,8 +14,4 @@ The proposed method integrates **Spectral Residual Saliency**, **ConvNeXt-Tiny**
 - Training, evaluation, cross-validation, and inference scripts
 - Reproducible experimental setup
 
-## Citation
 
-If you find this repository useful in your research, please cite our paper:
-
-> *Saliency-Aware Dual-Stream Learning for Blind Underwater Image Quality Assessment*, IEEE Journal of Oceanic Engineering (under review).
