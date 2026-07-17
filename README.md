@@ -15,3 +15,14 @@ The proposed method integrates **Spectral Residual Saliency**, **ConvNeXt-Tiny**
 - Reproducible experimental setup
 
 
+## Dataset
+
+The experiments in this work were conducted on the following publicly available underwater image quality assessment datasets.
+
+### SAUD Dataset
+- **Name:** Subjective Assessment of Underwater Images Dataset (SAUD)
+- **Link:** https://github.com/zzc-1998/SAUD
+
+### SOTA Dataset
+- **Name:** SOTA Underwater Image Quality Assessment Dataset
+- **Link:** <Insert official dataset URL>
