@@ -21,7 +21,7 @@ The experiments in this work were conducted on the following publicly available 
 
 ### SAUD Dataset
 - **Name:** Subjective Assessment of Underwater Images Dataset (SAUD)
-- **Link:** https://github.com/zzc-1998/SAUD
+- **Link:** [https://github.com/zzc-1998/SAUD](https://github.com/yia-yuese/SAUD-Dataset)
 
 ### SOTA Dataset
 - **Name:** SOTA Underwater Image Quality Assessment Dataset
