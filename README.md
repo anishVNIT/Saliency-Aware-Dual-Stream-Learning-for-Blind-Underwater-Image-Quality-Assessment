@@ -25,3 +25,12 @@ The experiments in this work were conducted on the following publicly available 
 ### SOTA Dataset
 - **Name:** SOTA Underwater Image Quality Assessment Dataset
 - **Link:**(https://github.com/Underwater-Lab-SHU/IQA-Datatset)
+
+  ## 📊 Experimental Results
+
+The proposed method was evaluated on the **SAUD** and **SOTA** benchmark datasets.
+
+| Dataset | PLCC ↑ | SROCC ↑ | KROCC ↑ | RMSE ↓ |
+|:--------:|:------:|:-------:|:-------:|:------:|
+| **SAUD** | **0.8686** | **0.8602** | **0.6811** | **10.5510** |
+| **SOTA** | **0.9148** | **0.8965** | **0.7292** | **4.9601** |
