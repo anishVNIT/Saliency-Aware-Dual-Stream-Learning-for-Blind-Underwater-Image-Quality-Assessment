@@ -11,7 +11,6 @@ The proposed method integrates **Spectral Residual Saliency**, **ConvNeXt-Tiny**
 - Cross-attention feature fusion
 - Hybrid regression loss for quality prediction
 - Support for SAUD and SOTA benchmark datasets
-- Training, evaluation, cross-validation, and inference scripts
 - Reproducible experimental setup
 
 
