@@ -25,4 +25,4 @@ The experiments in this work were conducted on the following publicly available 
 
 ### SOTA Dataset
 - **Name:** SOTA Underwater Image Quality Assessment Dataset
-- **Link:** <Insert official dataset URL>
+- **Link:** [<Insert official dataset URL>](https://github.com/Underwater-Lab-SHU/IQA-Datatset)
