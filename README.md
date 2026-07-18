@@ -1,7 +1,7 @@
 
-# Saliency-Aware Dual-Stream Learning for Blind Underwater Image Quality Assessment
+# Saliency-Guided Perceptual Representation Learning for Blind Underwater Image Quality Assessment
 
-This repository contains the official PyTorch implementation of our proposed **Saliency-Aware Dual-Stream Learning** framework for **Blind Underwater Image Quality Assessment (BUIQA)**.
+This repository contains the official PyTorch implementation of our proposed **Saliency-Guided Perceptual Representation Learning** framework for **Blind Underwater Image Quality Assessment (BUIQA)**.
 
 The proposed method integrates **Spectral Residual Saliency**, **ConvNeXt-Tiny**, and **Swin Transformer V2-Tiny** through a **cross-attention fusion mechanism** to jointly capture local degradation characteristics and global contextual information in underwater images. A hybrid correlation-aware loss is employed to improve consistency with subjective human quality perception.
 
